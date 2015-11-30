@@ -1,0 +1,73 @@
+kcm-fcitx (0.5.2-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Aron Xu <aron@debian.org>  Tue, 06 Oct 2015 05:46:37 +0700
+
+kcm-fcitx (0.4.3-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Aron Xu <aron@debian.org>  Fri, 02 Aug 2013 14:20:37 +0800
+
+kcm-fcitx (0.4.2-1) unstable; urgency=low
+
+  * New upstream release. 
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Fri, 15 Feb 2013 14:51:53 +0800
+
+kcm-fcitx (0.4.1-1) experimental; urgency=low
+
+  * New upstream release. 
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Wed, 26 Sep 2012 21:24:14 +0800
+
+kcm-fcitx (0.4.0-2) experimental; urgency=low
+
+  * Fix build on i386 and amd64
+
+ -- Aron Xu <aron@debian.org>  Sun, 12 Aug 2012 14:51:48 +0800
+
+kcm-fcitx (0.4.0-1) experimental; urgency=low
+
+  * New upstream release.
+
+ -- Aron Xu <aron@debian.org>  Sun, 12 Aug 2012 13:52:41 +0800
+
+kcm-fcitx (0.3.4-1) unstable; urgency=low
+
+  * Imported Upstream version 0.3.4
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Wed, 06 Jun 2012 14:43:31 +0800
+
+kcm-fcitx (0.3.3-1) unstable; urgency=low
+
+  * Fix debian/watch: googlecode
+  * Imported Upstream version 0.3.3
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Tue, 15 May 2012 17:52:41 +0800
+
+kcm-fcitx (0.3.2-1) unstable; urgency=low
+
+  * New upstream release. 
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Tue, 10 Apr 2012 16:31:49 +0800
+
+kcm-fcitx (0.3.1-1) unstable; urgency=low
+
+  * New upstream release.
+  * Bump to standard version to 3.9.3.
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Mon, 26 Mar 2012 03:35:01 +0800
+
+kcm-fcitx (0.3.0-1) unstable; urgency=low
+
+  * New upstream release: for fcitx 4.2.0. 
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Sun, 05 Feb 2012 22:22:58 +0800
+
+kcm-fcitx (0.2.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #638870)
+
+ -- Aron Xu <aron@debian.org>  Fri, 21 Oct 2011 16:57:56 +0800
