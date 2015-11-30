@@ -49,7 +49,7 @@ target_link_libraries(kcm_fcitx
   ${LIBINTL_LIBRARY}
   )
 
-install(TARGETS kcm_fcitx DESTINATION ${CMAKE_INSTALL_PLUGINDIR})
+install(TARGETS kcm_fcitx DESTINATION ${PLUGIN_INSTALL_DIR})
 fcitx_translate_add_apply_source(
   kcm_fcitx.desktop.in
   "${CMAKE_CURRENT_BINARY_DIR}/kcm_fcitx.desktop")
